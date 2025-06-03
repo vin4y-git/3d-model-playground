@@ -4,6 +4,10 @@ Control 3D models using hand gestures and voice commands in real-time.
 
 An interactive web app built with threejs, mediapipe computer vision, web speech API, and rosebud AI.
 
+- Say "drag", "rotate", "scale", or "animate" to change the interaction mode
+- Pinch fingers to control the 3D model
+- Drag/drop a new 3D model onto the page to import it (GLTF format only for now)
+
 [Video](https://x.com/measure_plan/status/1929557612191768623) | [Live Demo](https://collidingscopes.github.io/shape-creator-tutorial/)
 
 ## Requirements
@@ -27,6 +31,7 @@ git clone https://github.com/collidingScopes/3d-model-playground
 
 # Navigate to the project directory
 cd 3d-model-playground
+
 # Serve with your preferred method (example using Python)
 python -m http.server
 ```
