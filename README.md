@@ -8,7 +8,7 @@ An interactive web app built with threejs, mediapipe computer vision, web speech
 - Pinch fingers to control the 3D model
 - Drag/drop a new 3D model onto the page to import it (GLTF format only for now)
 
-[Video](https://x.com/measure_plan/status/1929900748235550912) | [Live Demo](https://collidingscopes.github.io/shape-creator-tutorial/)
+[Video](https://x.com/measure_plan/status/1929900748235550912) | [Live Demo](https://collidingscopes.github.io/3d-model-playground/)
 
 ## Requirements
 
