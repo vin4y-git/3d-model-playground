@@ -8,7 +8,7 @@ An interactive web app built with threejs, mediapipe computer vision, web speech
 - Pinch fingers to control the 3D model
 - Drag/drop a new 3D model onto the page to import it (GLTF format only for now)
 
-[Video](https://x.com/measure_plan/status/1929900748235550912) | [Live Demo](https://collidingscopes.github.io/3d-model-playground/)
+[Video](https://youtu.be/_I1E44Fp1Es?si=lR2otqR_-ZGdIGXT) | [Live Demo](https://collidingscopes.github.io/3d-model-playground/)
 
 ## Requirements
 
@@ -51,9 +51,13 @@ MIT License
 
 ## Related Projects
 
+I've released several computer vision projects (with code + tutorials) here:
+[Fun With Computer Vision](https://www.funwithcomputervision.com/)
+
+You can purchase lifetime access and receive the full project files and tutorials. I'm adding more content regularly :)
+
 You might also like some of my other open source projects:
 
-- [Threejs hand tracking tutorial](https://collidingScopes.github.io/threejs-handtracking-101) - Basic hand tracking setup with threejs and MediaPipe computer vision
 - [Particular Drift](https://collidingScopes.github.io/particular-drift) - Turn photos into flowing particle animations
 - [Liquid Logo](https://collidingScopes.github.io/liquid-logo) - Transform logos and icons into liquid metal animations
 - [Video-to-ASCII](https://collidingScopes.github.io/ascii) - Convert videos into ASCII pixel art
@@ -67,7 +71,7 @@ You might also like some of my other open source projects:
 
 ## Donations
 
-If you found this tool useful, feel free to buy me a coffee. 
+If you enjoyed this, feel free to buy me a coffee.
 
 My name is Alan, and I enjoy building open source software for computer vision, games, and more. This would be much appreciated during late-night coding sessions!
 
