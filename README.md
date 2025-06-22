@@ -6,7 +6,7 @@ An interactive web app built with threejs, mediapipe computer vision, web speech
 
 - Say "drag", "rotate", "scale", or "animate" to change the interaction mode
 - Pinch fingers to control the 3D model
-- Drag/drop a new 3D model onto the page to import it (GLTF format only for now)
+- Drag/drop a new 3D model onto the page to import it (GLB/GLTF format)
 
 [Video](https://youtu.be/_I1E44Fp1Es?si=lR2otqR_-ZGdIGXT) | [Live Demo](https://collidingscopes.github.io/3d-model-playground/)
 
